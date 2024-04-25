@@ -12,7 +12,13 @@ package daily;
  * 书店老板知道一个秘密技巧，能抑制自己的情绪，可以让自己连续 minutes 分钟不生气，但却只能使用一次。
  * 请你返回 这一天营业下来，最多有多少客户能够感到满意 。
  **/
-class Solution {
+
+
+class day240423 {
+
+    public static void main(String[]args){
+
+    }
     public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
         int n=customers.length;
         int ans=0;
