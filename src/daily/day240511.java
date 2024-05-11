@@ -3,7 +3,7 @@ package daily;
 import java.util.HashSet;
 
 /**
- * 2391. 收集垃圾的最少总时间（模拟：分别计算收集垃圾时间和达到最后出现位置的路程时间，lastIdx）
+ * 2391. 收集垃圾的最少总时间（贡献法；模拟：分别计算收集垃圾时间和达到最后出现位置的路程时间，lastIdx）
  * @program: LeetCode
  * @description:
  * @author: lydms
